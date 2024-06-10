@@ -27,7 +27,7 @@ Aa0aPAf985Bz1EhCz2W3D1gkD6x
 출력
 영석이가 세로로 읽은 순서대로 글자들을 출력한다. 이때, 글자들을 공백 없이 연속해서 출력한다.
  */
-package boj.step2;
+package boj.step7;
 
 import java.util.Scanner;
 

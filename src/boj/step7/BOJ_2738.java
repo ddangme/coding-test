@@ -10,7 +10,7 @@ N과 M은 100보다 작거나 같고, 행렬의 원소는 절댓값이 100보다
 출력
 첫째 줄부터 N개의 줄에 행렬 A와 B를 더한 행렬을 출력한다. 행렬의 각 원소는 공백으로 구분한다.
  */
-package boj.step2;
+package boj.step7;
 
 import java.util.Scanner;
 

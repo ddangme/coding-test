@@ -12,7 +12,7 @@
 
 
  */
-package boj.step2;
+package boj.step7;
 
 import java.util.Scanner;
 
