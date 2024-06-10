@@ -1,4 +1,4 @@
-package boj.step4;
+package boj.step2;
 
 import java.util.Scanner;
 
